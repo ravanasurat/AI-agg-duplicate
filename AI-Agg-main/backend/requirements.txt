@@ -1,0 +1,9 @@
+fastapi
+motor
+pydantic
+pymongo
+python-multipart
+uvicorn
+logging
+bson
+python-jose
